@@ -1,0 +1,1 @@
+{"timestamp":"2020-05-17T01:53:25.361+0000","status":500,"error":"Internal Server Error","message":"Current request is not a multipart request","path":"/upload/image"}

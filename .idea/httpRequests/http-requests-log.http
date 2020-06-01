@@ -1,0 +1,156 @@
+POST http://localhost:8082/upload/image
+
+--null
+
+
+< E:\timg.jpg
+--null--
+
+<> 2020-05-17T095457.400.json
+
+###
+
+POST http://localhost:8082/upload/image
+Accept: */*
+Cache-Control: no-cache
+
+--null
+
+
+< E:\timg.jpg
+--null--
+
+###
+
+POST http://localhost:8082/upload/image
+Accept: */*
+Cache-Control: no-cache
+
+--null
+
+
+< E:\timg.jpg
+--null--
+
+<> 2020-05-17T095346.400.json
+
+###
+
+POST http://localhost:8082/upload/image
+Accept: */*
+Cache-Control: no-cache
+
+--null
+
+
+< E:\timg.jpg
+--null--
+
+###
+
+POST http://localhost:8082/upload/image
+Accept: */*
+Cache-Control: no-cache
+
+--null
+
+
+< E:\timg.jpg
+--null--
+
+<> 2020-05-17T095325.500.json
+
+###
+
+POST http://localhost:8082/upload/image
+Accept: */*
+Cache-Control: no-cache
+
+--null
+
+
+< E:\timg.jpg
+--null--
+
+<> 2020-05-17T095227.500.json
+
+###
+
+POST http://localhost:8082/upload/image
+Accept: */*
+Cache-Control: no-cache
+
+--null
+
+
+< E:\timg.jpg
+--null--
+
+###
+
+POST http://localhost:8082/upload/image
+Accept: */*
+Cache-Control: no-cache
+
+--null
+
+
+< E:\timg.jpg
+--null--
+
+<> 2020-05-17T095056.400.json
+
+###
+
+POST http://localhost:8082/upload/image
+Accept: */*
+Cache-Control: no-cache
+
+--null
+
+
+< E:\timg.jpg
+--null--
+
+###
+
+POST http://localhost:8082/upload/image
+Accept: */*
+Cache-Control: no-cache
+
+--null
+
+
+< E:\timg.jpg
+--null--
+
+<> 2020-05-17T094843.400.json
+
+###
+
+POST http://localhost:8082/upload/image
+Accept: */*
+Cache-Control: no-cache
+
+--null
+
+
+< E:\timg.jpg
+--null--
+
+<> 2020-05-17T094726.400.json
+
+###
+
+POST http://localhost:8082/upload/image
+Accept: */*
+Cache-Control: no-cache
+
+--null
+
+
+< E:\timg.jpg
+--null--
+
+###
+
