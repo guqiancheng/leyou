@@ -1,7 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="207fa8e0-52f1-4311-9e68-3103dcc60cdd" name="Default Changelist" comment="" />
+    <list default="true" id="207fa8e0-52f1-4311-9e68-3103dcc60cdd" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/leyou-goods-web/src/main/resources/application.yml" beforeDir="false" afterPath="$PROJECT_DIR$/leyou-goods-web/src/main/resources/application.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/leyou-item/leyou-item-service/src/main/resources/application.yml" beforeDir="false" afterPath="$PROJECT_DIR$/leyou-item/leyou-item-service/src/main/resources/application.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/leyou-order/src/main/resources/application.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/leyou-order/src/main/resources/application.yaml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/leyou-search/src/main/resources/application.yml" beforeDir="false" afterPath="$PROJECT_DIR$/leyou-search/src/main/resources/application.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/leyou-sms-service/src/main/resources/application.yml" beforeDir="false" afterPath="$PROJECT_DIR$/leyou-sms-service/src/main/resources/application.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/leyou-user/leyou-user-service/src/main/resources/application.yml" beforeDir="false" afterPath="$PROJECT_DIR$/leyou-user/leyou-user-service/src/main/resources/application.yml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -23,6 +32,9 @@
         <option value="Class" />
       </list>
     </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="MavenImportPreferences">
     <option name="generalSettings">
@@ -60,6 +72,7 @@
     <property name="RequestMappingsPanelWidth0" value="75" />
     <property name="RequestMappingsPanelWidth1" value="75" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="JUnit5" />
@@ -388,11 +401,6 @@
                 <item name="services root" type="e789fda9:ObjectUtils$Sentinel" />
                 <item name="Spring Boot" type="7427dc5b:ServiceModel$ServiceGroupNode" />
               </path>
-              <path>
-                <item name="services root" type="e789fda9:ObjectUtils$Sentinel" />
-                <item name="Spring Boot" type="7427dc5b:ServiceModel$ServiceGroupNode" />
-                <item name="Finished" type="7427dc5b:ServiceModel$ServiceGroupNode" />
-              </path>
             </expand>
             <select />
           </treeState>
@@ -430,6 +438,8 @@
       <workItem from="1590561985884" duration="25306000" />
       <workItem from="1590668164851" duration="37722000" />
       <workItem from="1590838426376" duration="11395000" />
+      <workItem from="1591266639215" duration="1914000" />
+      <workItem from="1591341678151" duration="194000" />
     </task>
     <servers />
   </component>
@@ -445,10 +455,10 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="782" y="94" key="#Notifications/0.0.1920.1040@0.0.1920.1040" timestamp="1590840021360" />
-    <state x="786" y="55" key="#Project_Structure" timestamp="1590839837643">
+    <state x="786" y="55" key="#Project_Structure" timestamp="1591341737144">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="786" y="55" key="#Project_Structure/0.0.1920.1040@0.0.1920.1040" timestamp="1590839837643" />
+    <state x="786" y="55" key="#Project_Structure/0.0.1920.1040@0.0.1920.1040" timestamp="1591341737144" />
     <state x="559" y="51" width="1361" height="989" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1590235339084">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
@@ -545,9 +555,9 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="759" y="153" width="1160" height="685" key="new project wizard/0.0.1920.1040@0.0.1920.1040" timestamp="1590811358643" />
-    <state x="904" y="174" width="840" height="1034" key="search.everywhere.popup" timestamp="1590915110605">
+    <state x="904" y="174" width="840" height="1034" key="search.everywhere.popup" timestamp="1591341708288">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="904" y="174" width="840" height="1034" key="search.everywhere.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1590915110605" />
+    <state x="904" y="174" width="840" height="1034" key="search.everywhere.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1591341708288" />
   </component>
 </project>

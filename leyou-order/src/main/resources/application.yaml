@@ -16,7 +16,7 @@ spring:
       max-wait: 1000
       test-on-borrow: true
   rabbitmq:
-    host: 192.168.50.217
+    host: 192.168.50.999
     username: leyou
     password: leyou
     virtual-host: /leyou
